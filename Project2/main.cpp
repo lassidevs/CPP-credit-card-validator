@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-// Author Lassi K. 
+// Author Lassi K.  
 
 int main()
 {
