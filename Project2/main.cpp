@@ -2,6 +2,8 @@
 #include <iostream>
 #include <vector>
 
+// Author Lassi K. 
+
 int main()
 {
 	std::vector<int> vecInputCredidCardNumber;
